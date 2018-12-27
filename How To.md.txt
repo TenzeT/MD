@@ -1,0 +1,21 @@
+# How To
+---
+CHALLENGE ONE
+* Locate directory where the Challenge_1_Haskell.hs file is stored
+* Run: *ghc -o Challenge_1 Challenge_1_Haskell.hs*
+* Run: *Challenge_1 <arguments>*
+
+CHALLENGE TWO
+* **C#**
+    * Locate directory where the Challenge_2_CSharp.cs file is stored
+    * Run: *csc Challenge_2_CSharp.cs*
+    * Run: *Challenge_2_CSharp <textfile>*
+* **PYTHON**
+    * Locate directory where the Challenge_2_Python.py file is stored
+    * Run: *Challenge_2_Python.py <textfile>*
+
+Notes:
+* Unable to complete challenge 1, not very familiar with functional languages and never used Haskell
+* Files were all tested in a Windows 10 64-bit environment
+    
+    
